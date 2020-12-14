@@ -2,6 +2,5 @@
 "name": "QC Pro Pool",
 "description": "Le premier pool québécois !",
 "ticker": "QCPRO",
-"homepage": "https://github.com/igelineau/cardano-node",
-"verification-adapool": "886b25db697c23a2b0f60dceb4da4666"
+"homepage": "https://github.com/igelineau/cardano-node"
 }
