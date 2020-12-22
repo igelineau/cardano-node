@@ -1,6 +1,6 @@
 {
 "name": "QC Pro Pool",
-"description": "Le premier pool québécois !",
+"description": "Pool Québécois / - Empreinte énergétique minime avec l'utilisation de raspberry pi. Powered with raspberry pi servers and hydroelectricity, this pool is very efficient.",
 "ticker": "QCPRO",
 "homepage": "https://github.com/igelineau/cardano-node"
 }
